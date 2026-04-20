@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="btnClass">#CC66FF</color>
+    <color name="btnStudent">#920E5F</color>
+    <color name="add">#32BD2A</color>
+    <color name="delete">#C8392E</color>
+    <color name="update">#30cfd0</color>
+    <color name="bg_textview">#DDDDDD</color>
+</resources>
