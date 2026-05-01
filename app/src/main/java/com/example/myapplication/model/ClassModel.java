@@ -34,4 +34,7 @@ public class ClassModel {
     public void setName(String name) {
         this.name = name;
     }
+
+    public ClassModel() {
+    }
 }
